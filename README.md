@@ -22,12 +22,13 @@
 ---
 
 ### Skills
-<p align="left">
+<p align="center">
   <a href="https://github.com/GSuryaP">
-    <!-- Skillicons block (till Grafana) -->
+    <!-- Skillicons block till Grafana -->
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,vite,git,github,grafana" />
-     <img src="assets/rasa.png" width="48" height="48" alt="Rasa" />
-    <img src="https://skillicons.dev/icons?i=docker,figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
+    <img src="assets/rasa.jpg" width="48" height="48" alt="Rasa" />
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
   </a>
 </p>
 
