@@ -24,7 +24,7 @@
 ### Skills
 <p align="center">
   <a href="https://github.com/GSuryaP">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,git,github,grafana,docker,figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,vite,git,github,grafana,docker,figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
   </a>
 </p>
 
