@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Skills
+### Skills
 <p align="center">
   <a href="https://github.com/GSuryaP">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,git,github,grafana,docker,figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Overview  
+## GitHub Overview  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&layout=compact&hide_border=true&theme=tokyonight" height="160" /><br/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔥 Contributions & Streak  
+## Contributions & Streak  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GSuryaP&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
