@@ -24,10 +24,13 @@
 ### Skills
 <p align="left">
   <a href="https://github.com/GSuryaP">
-    <!-- Skillicons block-->
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,vite,git,github,grafana,docker,figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
+    <!-- Skillicons block (till Grafana) -->
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,vite,git,github,grafana" />
+     <img src="assets/rasa.png" width="48" height="48" alt="Rasa" />
+    <img src="https://skillicons.dev/icons?i=docker,figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
   </a>
 </p>
+
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
 
 ---
