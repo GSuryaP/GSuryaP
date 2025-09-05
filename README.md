@@ -1,10 +1,8 @@
-# Hi 👋, I'm G S S Surya Prakash
+# Hi 👋🏻, I'm G S S Surya Prakash
 
-- A passionate learner, constantly exploring the world of coding and technology.  
-- Each day, I embark on new learning adventures in algorithms, system design, and full-stack development.  
-- Currently pursuing **Computer Science Engineering (CSE)** in India.  
-- Ask me about **C, Python, Problem Solving, and Project Building**  
-- Reach me at: **gonellasurya2005@gmail.com**  
+- A passionate learner with a strong drive to explore coding and technology.  
+- I continuously explore algorithms, system design, and full-stack development.
+- Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.  
 
 ---
 
@@ -39,7 +37,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&layout=compact&hide_border=true&theme=tokyonight" height="160" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight&hide=contribs&rank_icon=grade" height="160" />
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical" /> -->
 </p>
 
 ---
