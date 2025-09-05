@@ -22,7 +22,7 @@
 ---
 
 ### Skills
-<p align="center">
+<p align="left">
   <a href="https://github.com/GSuryaP">
     <!-- Skillicons block-->
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,vite,git,github,grafana,docker,figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
