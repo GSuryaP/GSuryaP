@@ -2,7 +2,6 @@
 
 - A passionate learner, constantly exploring the world of coding and technology.  
 - Each day, I embark on new learning adventures in algorithms, system design, and full-stack development.  
-- All of my projects are available at: [My GitHub](https://github.com/GSuryaP)  
 - Currently pursuing **Computer Science Engineering (CSE)** in India.  
 - Ask me about **C, Python, Problem Solving, and Project Building**  
 - Reach me at: **gonellasurya2005@gmail.com**  
@@ -24,9 +23,6 @@
 
 ---
 
-### I am currently working with
----
-
 ### 🛠️ Skills
 <p align="center">
   <a href="https://github.com/GSuryaP">
@@ -34,23 +30,23 @@
   </a>
 </p>
 
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Overview  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsuryap&show_icons=true&theme=tokyonight" alt="gsuryap" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&layout=compact&hide_border=true&theme=tokyonight" height="160" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight&hide=contribs&rank_icon=grade" height="160" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical" /> -->
 </p>
 
-### Top Languages
+---
+
+## 🔥 Contributions & Streak  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsuryap&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gsuryap" />
+  <img src="https://streak-stats.demolab.com?user=GSuryaP&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 </p>
 
-### GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsuryap&theme=tokyonight" alt="gsuryap" />
-</p>
-
-
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
