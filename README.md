@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,vite,git,github,grafana" />
     <img src="assets/rasa.jpg" width="48" height="48" alt="Rasa" />
     <img src="https://skillicons.dev/icons?i=docker" />
-    <img src="https://skillicons.dev/icons?i=figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,wordpress,matlab,anaconda" />
+    <img src="https://skillicons.dev/icons?i=figma,linux,ubuntu,mysql,mongodb,sqlite,express,nodejs,tensorflow,pytorch,vercel,matlab,anaconda" />
   </a>
 </p>
 
