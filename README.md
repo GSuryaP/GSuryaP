@@ -48,6 +48,7 @@
 ### Contributions & Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gsuryap&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 </p>
+
 
