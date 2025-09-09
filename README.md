@@ -39,7 +39,7 @@
 ### GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&layout=compact&hide_border=true&theme=tokyonight" height="160" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonella Surya Prakash&layout=compact&hide_border=true&theme=tokyonight" height="160" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight&hide=contribs&rank_icon=grade" height="160" />
 </p>
 
