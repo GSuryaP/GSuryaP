@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm G S S Surya Prakash
+# Hi 👋🏻, I'm Gonella S S Surya Prakash
 
 - A passionate learner with a strong drive to explore coding and technology.  
 - I continuously explore algorithms, system design, and full-stack development.
