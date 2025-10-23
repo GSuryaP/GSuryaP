@@ -32,6 +32,18 @@
   </a>
 </p>
 
+---
+
+### Badges
+<p align="center">
+  <a href="https://www.holopin.io/userbadge/cmgp8po0p002clb0455wv1p2g" target="_blank">
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120" alt="Holopin Badge 2">
+  </a>
+  <a href="https://www.holopin.io/userbadge/cmh32ci2z005fl404szz6xmwb" target="_blank">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="120" alt="Holopin Badge 1">
+  </a>
+</p>
+
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
 
 ---
