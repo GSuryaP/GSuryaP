@@ -39,11 +39,11 @@
   <a href="https://www.holopin.io/userbadge/cmgp8po0p002clb0455wv1p2g" target="_blank">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120" alt="Holopin Badge 2">
   </a>
-  <a href="https://www.holopin.io/userbadge/cmh32ci2z005fl404szz6xmwb" target="_blank">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="120" alt="Holopin Badge 1">
-  </a>
   <a href="https://www.credly.com/earner/earned/share/91d06d92-61c7-4b64-a22d-8d32848768c6" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="120" alt="AWS Certified Badge">
+  </a>
+  <a href="https://www.holopin.io/userbadge/cmh32ci2z005fl404szz6xmwb" target="_blank">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="120" alt="Holopin Badge 1">
   </a>
 </p>
 
