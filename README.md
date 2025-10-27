@@ -17,8 +17,8 @@
   <a href="mailto:gonellasurya2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://gonellasurya-portfolio.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=globe" />
+  <a href="https://gonellasurya-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=globe" alt="Portfolio" />
   </a>
 </p>
 
