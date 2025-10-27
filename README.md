@@ -49,7 +49,6 @@
   <a href="https://www.credly.com/earner/earned/share/177bf094-733b-4c37-96c3-4f56f0465431" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" width="120" alt="Holopin Badge 1">
   </a>
-  &nbsp;
   <a href="https://www.credly.com/earner/earned/share/91d06d92-61c7-4b64-a22d-8d32848768c6" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="120" alt="AWS Certified Badge">
   </a>
