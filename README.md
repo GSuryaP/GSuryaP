@@ -45,6 +45,7 @@
   <a href="https://www.holopin.io/userbadge/cmh32ci2z005fl404szz6xmwb" target="_blank">
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="120" alt="Holopin Badge 1">
   </a>
+  &nbsp;
   <a href="https://www.credly.com/earner/earned/share/177bf094-733b-4c37-96c3-4f56f0465431" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" width="120" alt="Holopin Badge 1">
   </a>
