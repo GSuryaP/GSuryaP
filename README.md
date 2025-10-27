@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://gonellasurya-portfolio.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge" />  
+    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=devdotto" />
   </a>
 </p>
 
