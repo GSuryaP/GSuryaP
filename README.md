@@ -52,6 +52,10 @@
   <a href="https://www.credly.com/earner/earned/share/177bf094-733b-4c37-96c3-4f56f0465431" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" width="120" alt="Holopin Badge 1">
   </a>
+  &nbsp;
+  <a href="https://www.credly.com/earner/earned/share/c2dbebfe-760f-46ee-a6fb-662b96f08ea0" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="120" alt="Holopin Badge 1">
+  </a>
 </p>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
