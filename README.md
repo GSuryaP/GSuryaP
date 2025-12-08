@@ -52,25 +52,29 @@
   <a href="https://www.credly.com/earner/earned/share/177bf094-733b-4c37-96c3-4f56f0465431" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" width="120" alt="Holopin Badge 1">
   </a>
- &nbsp;
+  &nbsp;
+  <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/20396969" target="_blank"> 
+    <img src="https://cdn.qwiklabs.com/VF6eQ1bV8SfqKBpu8AVD%2F4G93sg9wJQ0wWe9CTc%2FJ%2F4%3D" width="120" alt="Google Skill Badge"> 
+  </a>
+  &nbsp;
   <a href="https://www.credly.com/earner/earned/share/c2dbebfe-760f-46ee-a6fb-662b96f08ea0" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="120" alt="Holopin Badge 1">
   </a>
+  
 </p>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
 
----
 
-### GitHub Overview  
+<!-- ### GitHub Overview -->
 
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&layout=compact&hide_border=true&theme=tokyonight" height="160" /><br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&langs_count=10&hide=Jupyter%20Notebook,Verilog&layout=compact&theme=tokyonight" height="160"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=contribs&rank_icon=grade" height="160" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&langs_count=10&hide=Jupyter%20Notebook,Verilog&layout=compact&theme=tokyonight" height="160"/><br/><br/> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=contribs&rank_icon=grade" height="160" /> -->
 
 
-</p>
+<!-- </p> -->
 
 ---
 
