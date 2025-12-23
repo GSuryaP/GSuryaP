@@ -42,7 +42,7 @@
   <a href="https://www.holopin.io/userbadge/cmgp8po0p002clb0455wv1p2g" target="_blank">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120" alt="Holopin Badge 2">
   </a>
-   <a href="https://www.credly.com/earner/earned/share/91d06d92-61c7-4b64-a22d-8d32848768c6" target="_blank">
+  <a href="https://www.credly.com/earner/earned/share/91d06d92-61c7-4b64-a22d-8d32848768c6" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="120" alt="AWS Certified Badge">
   </a>
   <a href="https://www.holopin.io/userbadge/cmh32ci2z005fl404szz6xmwb" target="_blank">
@@ -53,14 +53,17 @@
     <img src="https://images.credly.com/size/340x340/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" width="120" alt="Holopin Badge 1">
   </a>
   &nbsp;
+  <a href="https://www.credly.com/earner/earned/share/c2dbebfe-760f-46ee-a6fb-662b96f08ea0" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="120" alt="Holopin Badge 1">
+  </a>
+  &nbsp;
   <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/20396969" target="_blank"> 
     <img src="https://cdn.qwiklabs.com/VF6eQ1bV8SfqKBpu8AVD%2F4G93sg9wJQ0wWe9CTc%2FJ%2F4%3D" width="120" alt="Google Skill Badge"> 
   </a>
   &nbsp;
-  <a href="https://www.credly.com/earner/earned/share/c2dbebfe-760f-46ee-a6fb-662b96f08ea0" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="120" alt="Holopin Badge 1">
+  <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/21097541" target="_blank">
+    <img src="https://cdn.qwiklabs.com/%2F3TAs9DuqjYGWg2qQOL9f8HUYDXLxi3QgYXK%2BI5%2Fxdw%3D" width="120" alt="Google Skill Badge">
   </a>
-  
 </p>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
