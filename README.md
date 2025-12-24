@@ -64,6 +64,10 @@
   <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/21097541" target="_blank">
     <img src="https://cdn.qwiklabs.com/%2F3TAs9DuqjYGWg2qQOL9f8HUYDXLxi3QgYXK%2BI5%2Fxdw%3D" width="120" alt="Google Skill Badge">
   </a>
+  &nbsp;
+  <a href="https://credentials.databricks.com/1b58afc1-3eb7-4546-a7aa-530f8ad66372#acc.DeSOw8N0" target="_blank">
+    <img width="120" alt="GenAI Fundamentals Badge" src="https://github.com/user-attachments/assets/b9ddabbc-66dc-4311-8047-fa105df2c016" />
+  </a>
 </p>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
