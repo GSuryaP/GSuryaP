@@ -57,6 +57,10 @@
     <img src="https://images.credly.com/size/340x340/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="120" alt="Holopin Badge 1">
   </a>
   &nbsp;
+  <a href="https://alm.ibm.com/ibm-skillsbuildadult/trainingId/course:3826580/trainingInstanceId/course:3826580_4398317/en-US" target="_blank">
+    <img width="120" alt="IBM Vector Embedding Sticker" src="https://github.com/user-attachments/assets/76e9857a-511a-47ff-a072-b47a15cbbea6" />
+  </a>
+  &nbsp;
   <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/20396969" target="_blank"> 
     <img src="https://cdn.qwiklabs.com/VF6eQ1bV8SfqKBpu8AVD%2F4G93sg9wJQ0wWe9CTc%2FJ%2F4%3D" width="120" alt="Google Skill Badge"> 
   </a>
