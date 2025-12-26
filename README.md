@@ -57,21 +57,26 @@
     <img src="https://images.credly.com/size/340x340/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="120" alt="Holopin Badge 1">
   </a>
   &nbsp;
-  <a href="https://www.credly.com/earner/earned/badge/37471b82-459f-4b2d-ba64-5cf5dd0e2cf7" target="_blank">
-    <img width="120" alt="IBM Generative AI Essentials" src="https://images.credly.com/size/110x110/images/f3f8fc51-e8e4-4b1e-b9a9-44100cf3c465/Generative_20AI_20Essentials_20Using_20LLMs_20to_20Work_20with_20Data.png" />
-  </a>
-  &nbsp;
   <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/20396969" target="_blank"> 
     <img src="https://cdn.qwiklabs.com/VF6eQ1bV8SfqKBpu8AVD%2F4G93sg9wJQ0wWe9CTc%2FJ%2F4%3D" width="120" alt="Google Skill Badge"> 
+  </a>
+  &nbsp;
+  <a href="https://credentials.databricks.com/1b58afc1-3eb7-4546-a7aa-530f8ad66372#acc.DeSOw8N0" target="_blank">
+    <img width="120" alt="GenAI Fundamentals Badge" src="https://github.com/user-attachments/assets/b9ddabbc-66dc-4311-8047-fa105df2c016" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/37471b82-459f-4b2d-ba64-5cf5dd0e2cf7" target="_blank">
+    <img width="120" alt="IBM Generative AI Essentials" src="https://images.credly.com/size/110x110/images/f3f8fc51-e8e4-4b1e-b9a9-44100cf3c465/Generative_20AI_20Essentials_20Using_20LLMs_20to_20Work_20with_20Data.png" />
   </a>
   &nbsp;
   <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/21097541" target="_blank">
     <img src="https://cdn.qwiklabs.com/%2F3TAs9DuqjYGWg2qQOL9f8HUYDXLxi3QgYXK%2BI5%2Fxdw%3D" width="120" alt="Google Skill Badge">
   </a>
   &nbsp;
-  <a href="https://credentials.databricks.com/1b58afc1-3eb7-4546-a7aa-530f8ad66372#acc.DeSOw8N0" target="_blank">
-    <img width="120" alt="GenAI Fundamentals Badge" src="https://github.com/user-attachments/assets/b9ddabbc-66dc-4311-8047-fa105df2c016" />
+  <a href="https://www.credly.com/earner/earned/share/f142267d-0101-41e4-b1d2-afa0cfc4ca09" target="_blank">
+    <img width="120" alt="Cisco Python Essentials" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" />
   </a>
+  &nbsp;
 </p>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
