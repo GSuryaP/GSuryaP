@@ -57,8 +57,8 @@
     <img src="https://images.credly.com/size/340x340/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="120" alt="Holopin Badge 1">
   </a>
   &nbsp;
-  <a href="https://alm.ibm.com/ibm-skillsbuildadult/trainingId/course:3826580/trainingInstanceId/course:3826580_4398317/en-US" target="_blank">
-    <img width="120" alt="IBM Vector Embedding Sticker" src="https://github.com/user-attachments/assets/76e9857a-511a-47ff-a072-b47a15cbbea6" />
+  <a href="https://www.credly.com/earner/earned/badge/37471b82-459f-4b2d-ba64-5cf5dd0e2cf7" target="_blank">
+    <img width="120" alt="IBM Generative AI Essentials" src="https://images.credly.com/size/110x110/images/f3f8fc51-e8e4-4b1e-b9a9-44100cf3c465/Generative_20AI_20Essentials_20Using_20LLMs_20to_20Work_20with_20Data.png" />
   </a>
   &nbsp;
   <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/20396969" target="_blank"> 
