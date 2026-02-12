@@ -61,6 +61,10 @@
     <img src="https://cdn.qwiklabs.com/VF6eQ1bV8SfqKBpu8AVD%2F4G93sg9wJQ0wWe9CTc%2FJ%2F4%3D" width="120" alt="Google Skill Badge"> 
   </a>
   &nbsp;
+  <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/22225665" target="_blank"> 
+    <img src="https://cdn.qwiklabs.com/obGMhcmteg5Wd8etq8jgK5RDMX%2FHd3pSCAc3pcymfZ4%3D" width="120" alt="Google Skill Badge"> 
+  </a>
+  &nbsp;
   <a href="https://credentials.databricks.com/1b58afc1-3eb7-4546-a7aa-530f8ad66372#acc.DeSOw8N0" target="_blank">
     <img width="120" alt="GenAI Fundamentals Badge" src="https://github.com/user-attachments/assets/b9ddabbc-66dc-4311-8047-fa105df2c016" />
   </a>
