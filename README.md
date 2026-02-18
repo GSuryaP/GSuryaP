@@ -1,12 +1,4 @@
 # Hi 👋🏻, I'm Gonella Siva S Surya Prakash
-
-- A passionate learner with a strong drive to explore coding and technology.  
-- I continuously explore algorithms, system design, and full-stack development.
-- Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.  
-
----
-
-### Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/g-s-s-surya-prakash" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -21,6 +13,26 @@
     <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=globe" alt="Portfolio" />
   </a>
 </p>
+
+- A passionate learner with a strong drive to explore coding and technology.  
+- I continuously explore algorithms, system design, and full-stack development.
+- Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.  
+
+---
+<!-- <p align="left">
+  <a href="https://linkedin.com/in/g-s-s-surya-prakash" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.leetcode.com/gsurya_05" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="mailto:gonellasurya2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://gonellasurya-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=globe" alt="Portfolio" />
+  </a>
+</p> -->
 
 ---
 
