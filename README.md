@@ -104,9 +104,6 @@
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&langs_count=10&hide=Jupyter%20Notebook,Verilog&layout=compact&theme=tokyonight" height="160"/><br/><br/> -->
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=contribs&rank_icon=grade" height="160" /> -->
 
-
-<!-- </p> -->
-
 ---
 
 ### Contributions & Streak  
@@ -114,6 +111,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180"/>
 </p>
+
+
 
 <!--
 <p align="center">
