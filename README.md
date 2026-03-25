@@ -106,6 +106,13 @@
 
 ---
 
+### Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gsuryap&theme=tokyonight" height="180" alt="g-s-s-surya-prakash" /> 
+</div>
+
+---
+ 
 ### Contributions & Streak  
 <!--
 <p align="center">
