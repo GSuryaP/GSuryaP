@@ -1,4 +1,4 @@
-# Hi, I'm Gonella Siva Sai Surya Prakash
+# Hi, 👋 I'm Gonella Siva Sai Surya Prakash
 <p align="left">
   <a href="https://linkedin.com/in/g-s-s-surya-prakash" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
