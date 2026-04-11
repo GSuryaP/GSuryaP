@@ -113,9 +113,9 @@
  
 ### Contributions & Streak  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight" height="180"/>
