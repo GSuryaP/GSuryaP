@@ -119,6 +119,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight" height="180"/>
+  <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsuryap&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
