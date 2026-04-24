@@ -3,9 +3,9 @@
   <a href="https://linkedin.com/in/g-s-s-surya-prakash" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.leetcode.com/gsurya_05" target="blank">
+  <!-- <a href="https://www.leetcode.com/gsurya_05" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
+  </a> -->
   <a href="mailto:gonellasurya2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
