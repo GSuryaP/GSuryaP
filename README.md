@@ -48,8 +48,8 @@
 
 ---
 
-### Badges
-<p align="center">
+<!-- <p ### Badges> -->
+<!-- <p align="center">
   <a href="https://www.holopin.io/userbadge/cmgp8po0p002clb0455wv1p2g" target="_blank">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120" alt="Holopin Badge 2">
   </a>
@@ -92,7 +92,7 @@
     <img width="120" alt="Cisco Python Essentials" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" />
   </a>
   &nbsp;
-</p>
+</p> -->
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
 
