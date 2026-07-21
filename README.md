@@ -113,7 +113,8 @@
 ### Contributions & Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180"/> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gsuryap&theme=tokyonight" />
   <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsuryap&show_icons=true&theme=tokyonight" height="180"/>
 </p> 
