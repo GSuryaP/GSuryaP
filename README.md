@@ -47,8 +47,8 @@
 </p>
 
 
-<!-- <p ### Badges> -->
-<!-- <p align="center">
+<p ### Badges>
+<p align="center">
   <a href="https://www.holopin.io/userbadge/cmgp8po0p002clb0455wv1p2g" target="_blank">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120" alt="Holopin Badge 2">
   </a>
@@ -79,10 +79,6 @@
     <img width="120" alt="GenAI Fundamentals Badge" src="https://github.com/user-attachments/assets/b9ddabbc-66dc-4311-8047-fa105df2c016" />
   </a>
   &nbsp;
-  <a href="https://www.credly.com/earner/earned/badge/37471b82-459f-4b2d-ba64-5cf5dd0e2cf7" target="_blank">
-    <img width="120" alt="IBM Generative AI Essentials" src="https://images.credly.com/size/110x110/images/f3f8fc51-e8e4-4b1e-b9a9-44100cf3c465/Generative_20AI_20Essentials_20Using_20LLMs_20to_20Work_20with_20Data.png" />
-  </a>
-  &nbsp;
   <a href="https://www.skills.google/public_profiles/7ef62790-86a5-4ca0-8a43-3161b1e2b551/badges/21097541" target="_blank">
     <img src="https://cdn.qwiklabs.com/%2F3TAs9DuqjYGWg2qQOL9f8HUYDXLxi3QgYXK%2BI5%2Fxdw%3D" width="120" alt="Google Skill Badge">
   </a>
@@ -91,7 +87,7 @@
     <img width="120" alt="Cisco Python Essentials" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" />
   </a>
   &nbsp;
-</p> -->
+</p>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
 
