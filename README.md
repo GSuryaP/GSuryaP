@@ -47,7 +47,7 @@
 </p>
 
 
-<p ### Badges>
+### Badges
 <p align="center">
   <a href="https://www.holopin.io/userbadge/cmgp8po0p002clb0455wv1p2g" target="_blank">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120" alt="Holopin Badge 2">
