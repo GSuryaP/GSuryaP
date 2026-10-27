@@ -146,3 +146,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=gsuryap&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180"/>
 </p>
 -->
+
+---
+Always learning, building, and exploring new technologies.
+
