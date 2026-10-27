@@ -148,5 +148,6 @@
 -->
 
 ---
-Always learning, building, and exploring new technologies.
-
+<p align="center">
+  <i>Always learning, building, and exploring new technologies.</i>
+</p>
