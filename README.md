@@ -67,6 +67,14 @@
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="120" alt="Holopin Badge 1">
   </a>
   &nbsp;
+   <a href="https://hacktoberfest.com/" target="_blank">
+    <img src="./assets/hacktoberfest-week3.png" width="120" alt="Hacktoberfest 2026 Week 3 DEV Challenge badge">
+  </a>
+  &nbsp;
+  <a href="https://hacktoberfest.com/" target="_blank">
+    <img src="./assets/hacktoberfest-week4.png" width="120" alt="Hacktoberfest 2026 Week 4 DEV Challenge badge">
+  </a>
+  &nbsp;
   <a href="https://www.credly.com/earner/earned/share/177bf094-733b-4c37-96c3-4f56f0465431" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" width="120" alt="Holopin Badge 1">
   </a>
