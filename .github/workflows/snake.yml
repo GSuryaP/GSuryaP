@@ -21,7 +21,53 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#9ece6a&color_dots=#2a2c3e,#3d59a1,#7aa2f7,#bb9af7,#9ece6a
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7
+
+      - name: Replace eaten cells with blue shades
+        run: |
+          python3 - << 'EOF'
+          import glob, os, re
+
+          def transform_svg(filepath):
+              if not os.path.exists(filepath):
+                  return
+              with open(filepath, 'r', encoding='utf-8') as f:
+                  svg = f.read()
+
+              # Detect light vs dark background to pick optimal blue shades
+              c0_match = re.search(r'--c0:([^;]+);', svg)
+              is_light = c0_match and c0_match.group(1).lower() in ['#ebedf0', '#ffffff', 'white', '#f6f8fa']
+
+              if is_light:
+                  # Light mode blues
+                  b1, b2, b3, b4 = '#9ed0ff', '#79b8ff', '#2188ff', '#0366d6'
+              else:
+                  # Dark mode blues:
+                  # c1 (dark green)   -> b1 (dark blue)
+                  # c2 (normal green) -> b2 (normal blue)
+                  # c3 (light green)  -> b3 (light blue)
+                  # c4 (bright green) -> b4 (bright blue)
+                  b1, b2, b3, b4 = '#103860', '#1f6feb', '#58a6ff', '#79c0ff'
+
+              # 1. Inject blue color variables into :root
+              b_vars = f"--b1:{b1};--b2:{b2};--b3:{b3};--b4:{b4}"
+              svg = re.sub(r':root\{([^}]+)\}', rf':root{{\1;{b_vars}}}', svg, count=1)
+
+              # 2. In keyframes, change eaten fill color from --ce (empty) to corresponding blue level
+              pattern = re.compile(r'(@keyframes c\w+\{[0-9.]+%\s*\{fill:var\(--c([1-4])\)\}\s*[0-9.]+%\s*,\s*100%\s*\{fill:var\()--ce(\)\})')
+              svg = pattern.sub(lambda m: f"{m.group(1)}--b{m.group(2)}{m.group(3)}", svg)
+
+              # 3. Update bottom progress bar (.u) if present
+              for i in range(1, 5):
+                  svg = svg.replace(f'.u.u{i}{{fill:var(--c{i})', f'.u.u{i}{{fill:var(--b{i})')
+
+              with open(filepath, 'w', encoding='utf-8') as f:
+                  f.write(svg)
+              print(f"Transformed {filepath} with blue colors: {b1}, {b2}, {b3}, {b4}")
+
+          for svg_file in glob.glob('dist/*.svg'):
+              transform_svg(svg_file)
+          EOF
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
