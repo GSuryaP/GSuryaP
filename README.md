@@ -115,8 +115,6 @@
   &nbsp;
 </p>
 
----
-
 <!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gsuryap&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages" />
 </p> -->
