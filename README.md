@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:9ece6a&height=140&section=header" width="100%" alt="" />
+</p>
+
 # Hi, 👋🏻 I'm Gonella Siva Sai Surya Prakash
 <!-- <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />  -->
 
@@ -6,14 +10,24 @@
        alt="Animated green terminal portrait" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/GSuryaP">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=CSE+%40+PES+University%2C+Bengaluru;Algorithms+%C2%B7+System+Design+%C2%B7+Full-Stack;Always+learning%2C+building%2C+exploring" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
+</p>
+
 ---
 <p align="left">
   <a href="https://linkedin.com/in/g-s-s-surya-prakash" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <!-- <a href="https://www.leetcode.com/gsurya_05" target="blank">
+  <a href="https://leetcode.com/u/gsurya_05/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a> -->
+  </a>
   <a href="mailto:gonellasurya2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -27,22 +41,18 @@
 - Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.  
 
 ---
-<!-- <p align="left">
-  <a href="https://linkedin.com/in/g-s-s-surya-prakash" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.leetcode.com/gsurya_05" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="mailto:gonellasurya2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://gonellasurya-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=globe" alt="Portfolio" />
-  </a>
-</p> -->
+### Quick Facts
 
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE, PES University, Bengaluru (June 2027) |
+| 🧠 **Interests** | Distributed systems, systems software, system design |
+| 🧮 **LeetCode** | 400+ problems solved, 100 Days Badge 2026 |
+| 🌐 **Portfolio** | [gonellasurya.vercel.app](https://gonellasurya.vercel.app/) |
+<!-- | 💼 **Looking for** | SDE internships and full-time roles | -->
+<!-- | 🧑‍🏫 **Teaching** | Teaching Assistant, Computer Networks | -->
 
+---
 ### Skills
 <p align="center">
   <a href="https://github.com/GSuryaP">
@@ -105,55 +115,33 @@
   &nbsp;
 </p>
 
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=gsuryap&label=Profile%20views&color=0e75b6&style=flat" alt="gsuryap" /> </p>-->
+---
 
+### GitHub Overview
 
-<!-- ### GitHub Overview -->
+<!-- <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gsuryap&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages" />
+</p> -->
 
-<!-- <p align="center"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&layout=compact&hide_border=true&theme=tokyonight" height="160" /><br/> -->
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSuryaP&langs_count=10&hide=Jupyter%20Notebook,Verilog&layout=compact&theme=tokyonight" height="160"/><br/><br/> -->
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=GSuryaP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=contribs&rank_icon=grade" height="160" /> -->
-
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsuryap&theme=tokyonight" height="180" alt="g-s-s-surya-prakash" /> 
-</div> -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gsuryap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
  
 ### Contributions & Streak  
 
 <p align="center"> 
-   <!-- <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180"/>  -->
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=gsuryap&theme=tokyonight" /> 
    <br/><br/> 
-   <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsuryap&show_icons=true&theme=tokyonight" height="180"/>  -->
     <img src="https://github-stats-extended.vercel.app/api?username=gsuryap&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" /> 
 </p>  
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gsuryap&theme=tokyonight" height="180"/>
-  <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gsuryap&show_icons=true&theme=tokyonight" height="180"/>
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsuryap&theme=tokyo-night" />
-</p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsuryap&theme=tokyonight" />
-</p> -->
-
-
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gsuryap&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsuryap&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </p>
--->
 
 ---
 <p align="center">
-  <i>Always learning, building, and exploring new technologies.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ece6a,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="" />
 </p>
