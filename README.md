@@ -135,9 +135,6 @@
     <img src="https://github-stats-extended.vercel.app/api?username=gsuryap&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" /> 
 </p>  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsuryap&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
 
 <p align="center">
   <picture>
