@@ -41,18 +41,6 @@
 - Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.  
 
 ---
-### Quick Facts
-
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech CSE, PES University, Bengaluru (June 2027) |
-| 🧠 **Interests** | Distributed systems, systems software, system design |
-| 🧮 **LeetCode** | 400+ problems solved, 100 Days Badge 2026 |
-| 🌐 **Portfolio** | [gonellasurya.vercel.app](https://gonellasurya.vercel.app/) |
-<!-- | 💼 **Looking for** | SDE internships and full-time roles | -->
-<!-- | 🧑‍🏫 **Teaching** | Teaching Assistant, Computer Networks | -->
-
----
 ### Skills
 <p align="center">
   <a href="https://github.com/GSuryaP">
