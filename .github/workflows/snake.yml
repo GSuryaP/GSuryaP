@@ -23,7 +23,7 @@ jobs:
             dist/github-snake.svg?color_snake=#38bdf8&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
             dist/github-snake-dark.svg?color_snake=#38bdf8&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Turn green cells to blue shades when eaten
+      - name: Turn green cells to blue shades when eaten & remove progress bar
         run: |
           python3 - << 'EOF'
           import glob, os, re
@@ -59,13 +59,18 @@ jobs:
 
               svg = pattern.sub(repl, svg)
 
-              # 3. Update bottom progress bar (.u) to reflect blue level progress
-              for i in range(1, 5):
-                  svg = svg.replace(f'.u.u{i}{{fill:var(--c{i})', f'.u.u{i}{{fill:var(--b{i})')
+              # 3. Remove bottom progress bar (.u) elements and keyframes
+              svg = re.sub(r'<rect class="u [^"]*"[^>]*/>', '', svg)
+              svg = re.sub(r'@keyframes u\w+{[^}]*}', '', svg)
+              svg = re.sub(r'\.u[^{]*{[^}]*}', '', svg)
+
+              # 4. Adjust viewBox and height from 192 to 176 (removing the empty space left by the bar)
+              svg = re.sub(r'viewBox="(-?\d+\s+-?\d+\s+\d+\s+)192"', r'viewBox="\g<1>176"', svg)
+              svg = re.sub(r'(<svg[^>]*\bheight=)["\']192["\']', r'\g<1>"176"', svg)
 
               with open(filepath, 'w', encoding='utf-8') as f:
                   f.write(svg)
-              print(f"Successfully transformed {filepath} (green -> blue transition)")
+              print(f"Successfully transformed {filepath} (green -> blue transition, progress bar removed)")
 
           for svg_file in glob.glob('dist/*.svg'):
               transform_svg(svg_file)
