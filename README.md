@@ -117,15 +117,13 @@
 
 ---
 
-### GitHub Overview
-
 <!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gsuryap&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gsuryap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
  
@@ -139,6 +137,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsuryap&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GSuryaP/GSuryaP/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GSuryaP/GSuryaP/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/GSuryaP/GSuryaP/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
